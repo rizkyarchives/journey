@@ -1,5 +1,5 @@
 # journey
-All my coding journey compiled into one repository that I'd like to share with you. Ideas of the programs I made mostly came from the courses that I took. I mostly do this as a hobby for now :D.
+All my coding journey compiled into one repository that I'd like to share with you. Ideas of the programs I made mostly came from the courses that I took. I might filter and clean up this repository in the future when I've made more programs. I mostly do this as a hobby for now :D.
 I've learned C, Python, and a bit of html+css. If you're curious on what courses I took to learn these programs, here it is:
 Python: https://www.udemy.com/course/100-days-of-code/
 C: https://www.udemy.com/course/c-programming-for-beginners-/
