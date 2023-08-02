@@ -1,0 +1,2 @@
+Password generator like the other projects I did in another folder but this time I implemeted GUI.
+I also use file handling to save the password that have been generated so that it could be a password manager as well for you guys.
