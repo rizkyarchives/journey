@@ -1,6 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
-from selenium.webdriver.common.action_chains import ActionChains
+# from selenium.webdriver.common.action_chains import ActionChains
 from selenium.webdriver.common.by import By
 from selenium.common.exceptions import NoSuchElementException
 import time
@@ -76,31 +76,31 @@ class Analyzer():
             languages_in_list = languages.split(', ')
             dont_submit = False
             if salary == "Unpaid":
-                print("Masuk unpaid")
+                # print("Masuk unpaid")
                 dont_submit = True
             if len(languages_in_list) > 2:
-                print("bahasa lebih dari 2")
+                # print("bahasa lebih dari 2")
                 dont_submit = True
             if len(languages_in_list) == 2:
                 if "Bahasa Indonesian" not in languages_in_list:
-                    print("bahasa lebih dari dua + gaada indo")
+                    # print("bahasa lebih dari dua + gaada indo")
                     dont_submit = True
             if len(languages_in_list) == 1:
                 if "Bahasa Indonesian" not in languages_in_list:
                     if "English" not in languages_in_list:
-                        print("Bahasa cuma 1 + gaada inggris ato indo")
+                        # print("Bahasa cuma 1 + gaada inggris ato indo")
                         dont_submit = True
             if 'Any Nationality' not in country_list_for_test:
                 if 'Indonesia' not in country_list_for_test:
-                    print("Nationality bukan Any ato gaada Indo")
+                    # print("Nationality bukan Any ato gaada Indo")
                     dont_submit = True
             try:
                 if country_for_test[1] in self.blacklisted_countries:
-                    print("Blacklisted anjg")
+                    # print("Blacklisted")
                     dont_submit = True
             except IndexError:
                 if country_for_test[0] in self.blacklisted_countries:
-                    print("Blacklisted anjg")
+                    # print("Blacklisted")
                     dont_submit = True
             if not dont_submit:
                 data = {
@@ -118,10 +118,10 @@ class Analyzer():
                     'countryPreference': countryPreference,
                     'others': others
                 }
-                print(data)
+                # print(data)
                 full_data.append(data)
             else:
-                print("gagal filter")
+                # print("gagal filter")
             time.sleep(1)
         return full_data
             
