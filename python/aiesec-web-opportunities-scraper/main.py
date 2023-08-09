@@ -15,6 +15,4 @@ filtered_data = analyzer.analyze_link(links)
 
 uploader.upload_data(filtered_data)
 
-
-
-
+print('success')
