@@ -5,3 +5,5 @@ Details:
 1. I searched up 100 of the most commonly used words in Japan for this program.
 2. The challenge for this program is that I haven't learned japanese alphabets yet during the creation of this program (Hiragana, Katakana, and Kanji). So I use Pykakasi module from the internet to convert words in Japanese characters to Latin Alphabets.
 3. Uses Tkinter package for the GUI.
+
+![alt text](https://github.com/rizkyarchives/journey/blob/main/python/japanese-flashcard/output.png)
