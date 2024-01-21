@@ -1,0 +1,1 @@
+Having trouble on deciding a password for your new account? This program will help create one extremely difficult (because it's super random) password for you! You just have to make sure you can remember them :) or I suggest storing your password information in a safe note somewhere.
