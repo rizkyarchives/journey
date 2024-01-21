@@ -1,3 +1,4 @@
+# CANNOT RUN THE PROGRAM, I COULDN'T REMEMBER WHERE I PUT THE art, game_data files. This code was created and tried in replit as well.
 # import art
 # from game_data import data
 # import random
