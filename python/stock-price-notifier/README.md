@@ -5,3 +5,5 @@ Details:
 1. Uses NewsApi to fetch relevant news on the stock that we are paying close attention to.
 2. Uses SMTP Lib so output an email message notifying any significant price changes to the stock price.
 3. Uses Stock Market API from https://www.alphavantage.co/
+
+![alt text](https://github.com/rizkyarchives/journey/blob/main/python/stock-price-notifier/output.png)
