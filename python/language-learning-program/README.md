@@ -106,3 +106,14 @@ These are the amazing people who helped to build this wonderful application :
 - Rizky Maulana Hadi, Our great back end + frontend developer
 - Abid Yafi Abiyyu, Our enthusiastic front end developer and designer
 - Muhammad Alif Rahman Sukapraja, Our hard working front end designer and developer
+
+## Additional Info
+1. The database used was made by the backend developer.
+2. This program is unfinished, there is one features in the dashboard to show daily progress of a user which were not finished on time.
+3. Pydub requires ffmpeg. So you would need to have that installed on your virtual environment for this program to run.
+
+## Documentation
+
+![alt text](https://github.com/rizkyarchives/journey/blob/main/python/language-learning-program/output_login.png)
+![alt text](https://github.com/rizkyarchives/journey/blob/main/python/language-learning-program/output_dashboard.png)
+![alt text](https://github.com/rizkyarchives/journey/blob/main/python/language-learning-program/output_quiz.png)
