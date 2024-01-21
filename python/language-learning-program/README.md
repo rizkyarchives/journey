@@ -1,7 +1,7 @@
 
 # Language Learning Program
 
-Language Learning Program. Aplikasi belajar bahasa Inggris yang memuat tiga buah fitur utama, yakni tes vocabulary yang berisi latihan penerjemahan kata dari bahasa Inggris ke bahasa Indonesia, tes grammar yang berisi latihan "fill in the blank" menggunakan sistem pilihan ganda, serta tes listening berisi soal yang jawabannya terdapat pada audio yang hanya bisa dimainkan satu kali saja. Data vocabulary, pola kalimat, serta audio dibuat secara mandiri dan disimpan dalam database. Ada fitur login sehingga tiap user dapat menyimpan progress pembelajarannya dan melihat analytics data progressnya. Selain itu, ada sistem experience dan level pada setiap user berdasarkan jawaban benar atau salah pada setiap latihan. 
+Language Learning Program. An English language learning application that features three main components: a vocabulary test containing exercises for translating words from English to Indonesian, a grammar test consisting of "fill in the blank" exercises using a multiple-choice system, and a listening test with questions whose answers are found in an audio that can only be played once. Vocabulary data, sentence patterns, and audio are independently created and stored in a database. There is a login feature, allowing each user to save their learning progress and view analytics data on their progress. Additionally, there is an experience and level system for each user based on correct or incorrect answers in each exercise.
 
 
 
