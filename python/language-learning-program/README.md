@@ -103,6 +103,6 @@ pip install pydub
 
 These are the amazing people who helped to build this wonderful application :
 
-- Rizky Maulana Hadi, Our great back end developer
+- Rizky Maulana Hadi, Our great back end + frontend developer
 - Abid Yafi Abiyyu, Our enthusiastic front end developer and designer
 - Muhammad Alif Rahman Sukapraja, Our hard working front end designer and developer
