@@ -109,7 +109,7 @@ These are the amazing people who helped to build this wonderful application :
 
 ## Additional Info
 1. The database used was made by the backend developer.
-2. This program is unfinished, there is one features in the dashboard to show daily progress of a user which were not finished on time.
+2. This program is unfinished, there is one feature in the dashboard to show daily progress of a user which were not finished on time.
 3. Pydub requires ffmpeg. So you would need to have that installed on your virtual environment for this program to run.
 
 ## Documentation
