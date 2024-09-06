@@ -1,1 +1,0 @@
-The program is in Google Colab: https://colab.research.google.com/drive/1RZPuLl3z1mg3uTKQrcF1HvXwSvEud39c?usp=sharing
